@@ -25,7 +25,9 @@ Os materiais utilizados para o desenvolvimento do projeto foram:
 - 1 módulo bluetooh HC-05;
 - 1 resistência de 1k ohms;
 - 1 resistência de 2k ohms;
-- 9 bornes de 2 vias 5.08mm kf301-3t;
+- 10 bornes de 2 vias 5.08mm kf301-3t;
+- 1 bateria de 9V;
+- 4 pilhas AA 1,5V;
 - 2 esteiras de borracha;
 - 2 placas de MDF 80x80cm;
 
