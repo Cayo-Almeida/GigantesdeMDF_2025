@@ -22,13 +22,14 @@ Os materiais utilizados para o desenvolvimento do projeto foram:
 - 1 push button;
 - 2 resistências de 10K ohms;
 - 3 resistências de 150 ohms;
-- 1 módulo rececptor de rádio MX-05V;
+- 1 módulo bluetooh HC-05;
+- 1 resistência de 1k ohms;
+- 1 resistência de 2k ohms;
 - 9 bornes de 2 vias 5.08mm kf301-3t;
-- 1 borne de 3 vias 5.08mm kf128-3t;
 - 2 esteiras de borracha;
 - 2 placas de MDF 80x80cm;
 
-Na execução deste projeto, foi decidido fazer um chassi de mini tanque. Seu canhão foi o laser e seu alvo (para que os adversários pudessem antigí-lo) foi LDR. O laser e o LDR ficaram posicionados a 10cm de altura e ambos um do lado do outro.
+Na execução deste projeto, foi decidido fazer um chassi de mini tanque. Seu canhão foi o laser e seu alvo (para que os adversários pudessem antigí-lo) foi LDR. O laser e o LDR ficaram posicionados à 10cm de altura e ambos um do lado do outro.
 
 Cada vez que o LDR detectar um laser adversário, um LED deve ser apagado, o mini tanque deve realizar um giro de 180º e permanecer inativo por 5 segundos.
 
